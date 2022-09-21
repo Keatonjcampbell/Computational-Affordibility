@@ -2,6 +2,8 @@
 Computational purchasing power parity, a data analysis!
 Details of the data analysis can be found in the comments of the R script which runs the analysis.
 Final results are in Data+pretty graphics.xlsx, an Excel file.
+To run analysis, download the 'Computational Affordibility' directory, and run the Full Data Analysis script. 
+If you just want to see the final results, and generated graphics, look at above mentioned Excel file.
 
 Data Credits
 _________________________________________________________________________________________________________________
