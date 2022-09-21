@@ -1,0 +1,6 @@
+AMD CPU Benchmarks Courtesy of Alan Jo via Kaggle : https://www.kaggle.com/datasets/alanjo/amd-cpu-benchmarks
+AMD & NVIDIA GPU Benchmarks Courtesy of Alan Jo via Kaggle : https://www.kaggle.com/datasets/alanjo/gpu-benchmarks
+Feasibility of Training an AGI using Deep RL:
+A Very Rough Estimate
+Baeo Maltinsky Jack Gallagher Jessica Taylor
+March 24, 2019
